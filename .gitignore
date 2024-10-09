@@ -5,3 +5,5 @@ Takahashi.txt
 bluetortoise.txt
 .txt
 *.sw?
+.DS_Store
+Thumbs.db
